@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">FaceAuth Demo</string>
+  <string name="account_no">A/c No: %s</string>
+  <string name="aapka_bank">Aapka Bank</string>
+</resources>
