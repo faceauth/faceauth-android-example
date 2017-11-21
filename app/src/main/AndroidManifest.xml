@@ -35,8 +35,8 @@
         android:label="Transfer Funds"
         android:parentActivityName="live.faceauth.example.DashboardActivity">
     </activity>
-    <meta-data android:name="faceauth-api-key" android:value="<INSERT FACE AUTH KEY>" />
-    <meta-data android:name="sbi-api-key" android:value="<INSERT SBI AUTH KEY>" />
+    <meta-data android:name="faceauth-api-key" android:value="INSERT_FACE_AUTH_KEY" />
+    <meta-data android:name="sbi-api-key" android:value="INSERT_SBI_AUTH_KEY" />
   </application>
 
 </manifest>
